@@ -2,7 +2,7 @@
 A Demo Project using Asp.NET (C#)
 
 # This is a demo of Stock Management System.
-    An initial set up with stock item add/edit/delete features.  Created by me (Ali Raza) solely for demonstration/architectural analysis purpose
+    An initial set up with stock item add/edit/delete features.  Created solely for demonstration/architectural analysis purpose
     Main focus here was to layout an n-tier architecture solution with separate layers responsible for Data Access, Business Logic/Rules and Presentation.
 
     Once we have finalized the architectural pattern further development can be done as needed. Please see the features in pipeline for 
