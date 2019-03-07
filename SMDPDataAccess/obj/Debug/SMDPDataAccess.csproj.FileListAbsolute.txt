@@ -1,0 +1,8 @@
+G:\ali\ali-work\ASP.NET\nTierDemo\DAL\DAL\bin\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\nTierDemo\DAL\DAL\bin\Debug\DAL.pdb
+G:\ali\ali-work\ASP.NET\nTierDemo\DAL\DAL\obj\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\nTierDemo\DAL\DAL\obj\Debug\DAL.pdb
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPDataAccess\bin\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPDataAccess\bin\Debug\DAL.pdb
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPDataAccess\obj\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPDataAccess\obj\Debug\DAL.pdb

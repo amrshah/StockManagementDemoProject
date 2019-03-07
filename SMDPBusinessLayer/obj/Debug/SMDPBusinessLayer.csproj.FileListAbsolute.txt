@@ -1,0 +1,14 @@
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\bin\Debug\BLL.dll
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\bin\Debug\BLL.pdb
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\bin\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\bin\Debug\DAL.pdb
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\obj\Debug\SMDPBusinessLayer.csprojResolveAssemblyReference.cache
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\obj\Debug\BLL.dll
+G:\ali\ali-work\ASP.NET\nTierDemo\BLL\BLL\obj\Debug\BLL.pdb
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\bin\Debug\BLL.dll
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\bin\Debug\BLL.pdb
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\bin\Debug\DAL.dll
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\bin\Debug\DAL.pdb
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\obj\Debug\SMDPBusinessLayer.csprojResolveAssemblyReference.cache
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\obj\Debug\BLL.dll
+G:\ali\ali-work\ASP.NET\AlShifaEye\StockManagementDemoProj\SMDPBusinessLayer\obj\Debug\BLL.pdb
